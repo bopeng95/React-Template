@@ -4,7 +4,7 @@ Template for React, Express, and MongoDB Web Projects (create-react-app)
 - up to you if you want to use MongoDB, a basic Schema is there
 - axios (http requests) is commented out (also up to you to use)
 - npm install the dependencies for client and server
-- proxy is set to localhost 5000
+- proxy is set to localhost 5000 (for server)
 - make sure Mongo is running if you are using it
 
 To start server:
