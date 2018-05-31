@@ -1,0 +1,22 @@
+label {
+	border-bottom: 1px solid turquoise;
+}
+
+input[type=text],
+input[type=email] {
+	margin-bottom:2rem;
+}
+
+/*input[type=submit] {
+	background:white;
+	color:turquoise;
+	border:1px solid turquoise;
+	border-radius: 5px;
+	font-size:14px;
+	cursor:pointer;
+	padding:8px 16px !important;
+}
+input[type=submit]:hover {
+	background:turquoise;
+	color:white;
+}*/
