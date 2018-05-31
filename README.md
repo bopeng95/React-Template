@@ -12,7 +12,7 @@ To start server:
 //in server folder...
 node server.js
 ```
-To start client
+To start client:
 ```
 //in client folder...
 npm start
